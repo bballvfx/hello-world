@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+There is nothing I like more than perfection.
+
+
